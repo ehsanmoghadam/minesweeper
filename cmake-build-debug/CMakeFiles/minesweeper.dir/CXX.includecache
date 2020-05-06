@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ehsan jm/Desktop/tamrin/minesweeper/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+chrono
+-
+fstream
+-
+string
+-
+
